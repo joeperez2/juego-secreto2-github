@@ -1,0 +1,17 @@
+Comandos de gitr hub 
+
+GIT INIT Repositorio local 
+Para que podamos realizar el control de versiones de un proyecto, registrando los cambios realizados en él
+ a lo largo del tiempo, debemos, en primer lugar, transformar el directorio del proyecto en un repositorio Git. 
+ El comando git init se utiliza para este objetivo, y debe ejecutarse solo una vez. Cuando se ejecuta, 
+ configura el directorio actual para que sea rastreado por Git, inicializando un repositorio vacío.
+
+Sincornizar repositorios
+
+GIT ADD.
+El comando git add sirve para seleccionar y preparar los cambios de tus archivos antes de guardarlos
+definitivamente en el historial de Git.
+En el flujo de trabajo de Git, git add mueve tus archivos desde el directorio de trabajo 
+(los archivos que estás editando) hacia el área de preparación (conocida como Staging Area o Index).
+
+

@@ -1,7 +1,7 @@
 let numeroSecreto = 0;
 let numeroIntentos = 0;
 let listaNumerosSorteados = [];//Lista de numeros sorteados 
-let numeroMaximo = 100; //Variable limitadora de numeros 
+let numeroMaximo = 50; //Variable limitadora de numeros 
 
 console.log(numeroSecreto);
 
